@@ -1,0 +1,27 @@
+Sockets: 
+   ---      ---      ---      ---      ---      XOP          XOP      ---      ---      ---      ---      ---   
+   ---      ---      ---      ---      ---      XOP          XOP      ---      ---      ---      ---      ---   
+   ---      ---      ---      ---      ---      XOP          XOP      ---      ---      ---      ---      ---   
+   ---      ---      ---      ---      ---      XOP          XOP      ---      ---      ---      ---      ---   
+    R1      ---      ---      ---      ---      ---           DK      ---      ---      ---      ---      ---   
+    R1      ---      ---      ---      ---      ---           DA      ---      ---      ---      ---      ---   
+     C      ---      ---      ---      ---      ---          ---      ---      ---      ---      ---      ---   
+     C      ---      ---      ---      ---      ---          ---      ---      ---      ---      ---      ---   
+Dip Switches: 
+ X    X    X    X    X    X    X    X        X    X    X    X    X    X    X    X   
+ O    X    X    X    X    X    X    X        X    X    X    X    X    X    X    X   
+ X    O    X    X    X    X    X    X        X    X    O    X    X    X    X    X   
+ X    X    X    X    X    X    X    X        X    X    X    X    X    X    X    X   
+ O    X    X    X    X    X    X    X        O    X    X    X    X    X    X    X   
+ X    X    O    X    X    X    X    X        X    O    X    X    X    X    X    X   
+ O    X    X    X    X    X    X    X        X    X    X    X    X    X    X    X   
+ X    X    O    X    X    X    X    X        X    X    X    X    X    X    X    X   
+Switches: 
+ ---    ---
+ ---    PWR
+ ---    ---
+ GND    ---
+ ---    ---
+ ---    ---
+ ---    ---
+ ---    ---
